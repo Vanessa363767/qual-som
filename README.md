@@ -1,2 +1,7 @@
-# qual-som
-Jogo criado para a disciplina de tópicos especiais integrados
+# Jogo qual é o som?
+Neste jogo você deve achar o som correto....
+## Tecnologias
+-Jquery
+-Javascript
+-HTML
+-CSS
